@@ -729,7 +729,7 @@
       return _0x6826d1('html,body').animate({ scrollTop: 0 }, 700), false
     })
     _0x6826d1('#clock').length &&
-      _0x6826d1('#clock').countdown('2023-11-17 12:30:00', function (_0x28e919) {
+      _0x6826d1('#clock').countdown('2024-06-27 12:30:00', function (_0x28e919) {
         var _0x5252aa = _0x6826d1(this).html(
           _0x28e919.strftime(
             '<div class="box"><div><div class="time">%D</div> <span>Days</span> </div></div><div class="box"><div><div class="time">%H</div> <span>Hours</span> </div></div><div class="box"><div><div class="time">%M</div> <span>Mins</span> </div></div><div class="box"><div><div class="time">%S</div> <span>Secs</span> </div></div>'
@@ -737,7 +737,7 @@
         )
       })
     _0x6826d1('#clock2').length &&
-      _0x6826d1('#clock2').countdown('2023-11-17 12:30:00', function (_0x4a7874) {
+      _0x6826d1('#clock2').countdown('2024-11-17 12:30:00', function (_0x4a7874) {
         var _0x5563a5 = _0x6826d1(this).html(
           _0x4a7874.strftime(
             '<div class="box"><div><div class="time">%D</div> <span>Days</span> </div></div><div class="box"><div><div class="time">%H</div> <span>Hours</span> </div></div><div class="box"><div><div class="time">%M</div> <span>Mins</span> </div></div><div class="box"><div><div class="time">%S</div> <span>Secs</span> </div></div>'
@@ -745,7 +745,7 @@
         )
       })
     _0x6826d1('#clock3').length &&
-      _0x6826d1('#clock3').countdown('2023-11-17 12:30:00', function (_0x5218c4) {
+      _0x6826d1('#clock3').countdown('2024-11-17 12:30:00', function (_0x5218c4) {
         var _0x3e8ab4 = _0x6826d1(this).html(
           _0x5218c4.strftime(
             '<div class="box"><div><div class="time">%D</div> <span>أيام</span> </div></div><div class="box"><div><div class="time">%H</div> <span>ساعات</span> </div></div><div class="box"><div><div class="time">%M</div> <span>دقيقة</span> </div></div><div class="box"><div><div class="time">%S</div> <span>ثانية</span> </div></div>'
